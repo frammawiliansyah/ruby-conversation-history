@@ -1,6 +1,6 @@
-# Project Conversation History
+# Ruby Conversation History
 
-A simple Rails app to record and display project conversation history.
+A simple Rails app to record and display conversation history.
 
 ## Prerequisites
 
@@ -54,11 +54,6 @@ Follow these steps to run the project locally:
 
 Once the server is running, visit `http://localhost:3000` in your browser. You can create and manage projects, add comments, and view status change history.
 
-## Demo
-
-You can view the deployed version of this project here:
-
-[Live Demo](https://conversation-history-project.framma.id)
 
 ## Contributing
 
